@@ -62,7 +62,9 @@
     <issue id="IconExtension" severity="ignore" />
     <issue id="IconLauncherShape" severity="ignore" />
     <issue id="IconLocation" severity="ignore" />
-    <issue id="IconMissingDensityFolder" severity="ignore" />
+    <issue id="IconMissingDensityFolder" severity="ignore">
+        <ignore path="" />
+    </issue>
     <issue id="IconMixedNinePatch" severity="ignore" />
     <issue id="IconNoDpi" severity="ignore" />
     <issue id="IconXmlAndPng" severity="ignore" />

@@ -9,8 +9,8 @@ Eclipse library project based on:<br/>
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/10.0.0)
 
 **References:**
-- https://developers.google.com/android/guides/releases#november_2016_-_v100
 - https://developers.google.com/maps/documentation/android-api/
+- https://developers.google.com/android/guides/releases#november_2016_-_v100
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
